@@ -2,28 +2,25 @@
         {
             "name": "Es Doger",
             "description": "Es doger adalah salah satu susu kelapa dingin yang sering ditemui di Bandung, Jawa Barat.[1] Walaupun es doger berasal dari Cirebon, es doger juga bisa ditemui di kota-kota besar di Indonesia, seperti Jakarta, Malang, dan Surabaya. Selain rasanya yang enak, es doger juga enak diminum di tempat-tempat yang panas. Es doger juga enak jika diminum setelah melakukan olahraga. Es doger berbahan dasar susu dan parutan kelapa, ditambah dengan tape, ketan hitam, avokad, dan lain-lain.",
-            "Rating": "8.16",
-            "categorie":"Fast food",
+            "categorie":"Minuman Dingin",
             "place":"Jakarta | Malang | Surabaya",
             "img": "https://i.pinimg.com/564x/c8/a6/af/c8a6af630166cdf2e74494a4d026d4dc.jpg"
         },
 	
 	 {
-            "name": "Hot Dog",
-            "description": "Roti berlapiskan daging sapi berukuran panjang dicampur dengan sedikit mayones, saus sambal, dan saus tomat ini pun memiliki kandungan yang tidak menyehatkan untuk tubuh.",
-            "Rating": "6.96",
-            "categorie":"Fast food",
-            "place":"KFC | Pizza Hut | McDonald's",
-            "img": "https://i.pinimg.com/originals/74/7d/6b/747d6b7d2c3b197f412c6a1e01a9b62c.jpg"
+            "name": "Es dawet",
+            "description": "Dawet merupakan minuman khas Jawa yang terbuat dari tepung beras ataupun tepung beras ketan, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih. Dawet adalah minuman khas dari kota Banjarnegara[butuh rujukan]. Seiring perkembangan zaman, Es dawet menyebar ke seluruh kota mulai dari Kota Semarang, Solo, Jakarta, Bandung, dan kota lainnya. ",
+            "categorie":"Minuman Dingin",
+            "place":"Bandung",
+            "img": "https://i.pinimg.com/564x/71/b6/16/71b616441ea72187ec1d587fe9623bb0.jpg"
         },
 	
 	{
-            "name": "Donat",
-            "description": "Donat polos tidak mengandung banyak kalori, dan tidak membahayakan tubuh Anda. Tapi, sekarang ini donat telah memiliki banyak varian rasa, dan mengandung banyak gula.",
-            "Rating": "2.66",
-            "categorie":"Fast food",
-            "place":"KFC | Pizza Hut | McDonald's",
-            "img": "https://i.pinimg.com/originals/1c/68/9a/1c689a5ef7d37f6522bb02401a7cf8dc.jpg"
+            "name": "Bandrek",
+            "description": "Bandrék adalah minuman tradisional orang Sunda dari Jawa Barat, Indonesia, yang dikonsumsi untuk meningkatkan kehangatan tubuh. Minuman ini biasanya dihidangkan pada cuaca dingin, seperti di kala hujan ataupun malam hari. Bahan dasar bandrék yang paling penting adalah jahe dan gula merah, tetapi pada daerah tertentu biasanya menambahkan rempah-rempah tersendiri untuk memperkuat efek hangat yang diberikan bandrék, seperti serai, merica, pandan, telur ayam kampung, dan sebagainya. Susu juga dapat ditambahkan tergantung dari selera penyajian. Banyak orang Indonesia percaya bahwa bandrék dapat menyembuhkan berbagai penyakit ringan seperti sakit tenggorokan, batuk, dan lain sebagainya. Di Bandung, biasanya penjual menambahkan sejumput kerukan kelapa untuk menambah cita rasa dari Bandrek tersebut. Bandrek biasa dikonsumsi bersama kacang rebus, ubi jalar rebus, dan juga gorengan. ",
+            "categorie":"Minuman Panas",
+            "place":"Jawa Barat",
+            "img": "http://1.bp.blogspot.com/-GspRpagt32o/VIzsGZjWAkI/AAAAAAAABbI/6hgEhPKpS9g/s280/Resep%2Bbandrek.JPG"
         },
 	
 	 {
